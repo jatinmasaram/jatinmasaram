@@ -11,10 +11,11 @@
 
 ### ⚙️ Tech Stack & Tools:
 - 💻 Frontend: HTML • CSS • JavaScript • React
-- 🛠️ Backend: Python • Flask • Node.js
-- 🗄️ Database: MongoDB • Firebase • SQL
+- 🛠️ Backend: Python • Flask • Node.js • FastAPI
+- 🗄️ Database: MongoDB • Firebase • SQL • TimeScaleDB
 - ☁️ DevOps & Cloud: GitHub Actions • Docker • AWS (basics) • Linux
-- 🔧 Tools: VS Code • Postman • Git 
+- 🔧 Tools: VS Code • Postman • Git • Protobuf
+- 🔧 Data Engineering : Apache Kafka • Apache Flink • Snowflake • Apache Airflow  • Protobuf
 
 ---
 
