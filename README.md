@@ -1,30 +1,165 @@
-# 👋 Hi, I'm Jatin Masaram
+# Hi there 👋 I'm Jatin Masaram
 
-🎓 BTech in Computer Science | GH Raisoni University  
-🌐 Passionate about **DevOps**, **Cloud**, and **Full Stack Development**  
-💻 Currently building: A Health Tracker App (React + Flask + MongoDB)  
-🚀 Always exploring: Docker • GitHub Actions • CI/CD • Kubernetes   
-🎯 Goal: Join a niche tech role in **DevOps / Cloud / Data Engineering**  
-💬 Let’s connect and collaborate on real-world tech solutions!
+## Data Engineer | AI Engineer | Cloud & Distributed Systems
 
----
+I'm a Data Engineer currently building real-time data platforms using Apache Kafka, Apache Flink, Python, and cloud technologies. I'm passionate about scalable distributed systems, AI infrastructure, MLOps, and Agentic AI.
 
-### ⚙️ Tech Stack & Tools:
-- 💻 Frontend: HTML • CSS • JavaScript • React
-- 🛠️ Backend: Python • Flask • Node.js • FastAPI
-- 🗄️ Database: MongoDB • Firebase • SQL • TimeScaleDB
-- ☁️ DevOps & Cloud: GitHub Actions • Docker • AWS (basics) • Linux
-- 🔧 Tools: VS Code • Postman • Git • Protobuf
-- 🔧 Data Engineering : Apache Kafka • Apache Flink • Snowflake • Apache Airflow  • Protobuf
+Currently exploring production-grade AI systems, retrieval pipelines, cloud-native architectures, and intelligent autonomous agents.
 
 ---
 
-### 📈 GitHub Stats
+## What I'm Currently Working On
 
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinmasaram&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinmasaram&layout=compact&theme=radical)
+- Real-Time Data Streaming Pipelines
+- Agentic AI Applications
+- Retrieval-Augmented Generation (RAG)
+- Azure Data Engineering
+- MLOps & Model Deployment
+- Kubernetes & Docker
+- Distributed Systems
+- Natural Gas Network Simulation (EPANET Research)
 
 ---
 
-📫 **Reach out to me**:  
-[LinkedIn](https://www.linkedin.com/in/jatin-masaram-76985719b/) • [Email](mailto:mjatin10117@gmail.com)
+## Core Expertise
+
+### Data Engineering
+
+- Apache Kafka
+- Apache Flink
+- Airflow
+- ETL / ELT Pipelines
+- Stream Processing
+- Data Modeling
+- Batch Processing
+- Event-Driven Architecture
+- Protocol Buffers
+- Snowflake
+- dbt
+
+---
+
+### AI Engineering
+
+- Large Language Models (LLMs)
+- Agentic AI
+- LangChain
+- LangGraph
+- RAG Pipelines
+- Hugging Face
+- Prompt Engineering
+- AI Workflows
+- FastAPI
+- Vector Databases
+
+---
+
+### Machine Learning & MLOps
+
+- Scikit-Learn
+- PyTorch
+- ML Pipelines
+- Model Serving
+- Feature Engineering
+- Model Evaluation
+- Experiment Tracking
+- Dockerized ML APIs
+
+---
+
+### Cloud & DevOps
+
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- Linux
+- Bash
+- AWS
+- Azure
+- GCP (Learning)
+- Terraform (Learning)
+
+---
+
+### Programming
+
+- Python
+- SQL
+- Java
+- JavaScript
+
+---
+
+### Databases
+
+- PostgreSQL
+- TimescaleDB
+- MongoDB
+- Snowflake
+- Firebase
+
+---
+
+## Featured Projects
+
+### Real-Time Streaming Platform
+
+Kafka → Flink → PostgreSQL → FastAPI
+
+Production-grade event streaming with validation, fault tolerance, and analytics.
+
+---
+
+### AI Knowledge Assistant
+
+Agentic AI + LangGraph + RAG + FastAPI + Vector Database
+
+Intelligent multi-agent assistant capable of tool usage and reasoning.
+
+---
+
+### Industrial Energy Monitoring Platform
+
+Real-time industrial monitoring using streaming analytics, anomaly detection, and visualization.
+
+---
+
+### MLOps Pipeline
+
+Training → Experiment Tracking → Docker → FastAPI → Cloud Deployment
+
+End-to-end machine learning deployment workflow.
+
+---
+
+## Currently Learning
+
+- Advanced Distributed Systems
+- AI Agents
+- MLOps
+- Kubernetes
+- Terraform
+- Azure Data Engineering
+- LLM Infrastructure
+- High Performance Python
+
+---
+
+## Open to Collaborate On
+
+- AI Engineering
+- Data Engineering
+- Open Source
+- Cloud Projects
+- Distributed Systems
+- Agentic AI
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/jatin-masaram-76985719b
+- Email: mjatin10117@gmail.com
+
+---
